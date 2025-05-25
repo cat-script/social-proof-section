@@ -99,12 +99,12 @@ body {
 
 .quote::before {
   content: "\201C";
-  padding-right: 0.25em;
+  padding-inline-end: 0.25em;
 }
 
 .quote::after {
   content: "\201D";
-  padding-left: 0.25em;
+  padding-inline-start: 0.25em;
 }
 
 .quote {
